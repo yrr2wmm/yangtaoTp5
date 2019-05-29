@@ -1,0 +1,18 @@
+openapi: 3.0.0
+info:
+  title: 'Swagger 测试接口文档'
+  description: 测试测试
+  termsOfService: 'http://localhost'
+  contact:
+    email: apiteam@swagger.io
+  license:
+    name: 'Apache 2.0'
+    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
+  version: 1.0.0
+servers:
+  -
+    url: 'http://localhost'
+    description: 'OpenApi host'
+externalDocs:
+  description: 'Find out more about Swagger'
+  url: 'http://localhost'
