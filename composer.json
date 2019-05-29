@@ -18,8 +18,7 @@
         "topthink/framework": "5.1.*",
         "phpoffice/phpword": "^0.16.0",
         "zewail/think-api": "1.1.*",
-        "zircote/swagger-php": "^3.0",
-        "swagger-api/swagger-ui": "^3.22"
+        "zircote/swagger-php": "2.0.13"
     },
     "autoload": {
         "psr-4": {
